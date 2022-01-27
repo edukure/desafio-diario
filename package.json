@@ -1,0 +1,12 @@
+{
+  "name": "logica-diaria",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --verbose --onlyChanged"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
